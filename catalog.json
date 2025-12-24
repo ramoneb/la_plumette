@@ -13,6 +13,15 @@
           "audio_url": "https://raw.githubusercontent.com/ramoneb/la_plumette/refs/heads/main/demo_2_3.mp3",
           "pdf_url": "https://raw.githubusercontent.com/ramoneb/la_plumette/refs/heads/main/demo_2_3.pdf",
           "cover_url": ""
+        },
+        {
+          "id": "demo_2_3_1",
+          "title": "9roda",
+          "subtitle": "9roda b darija"
+          "duration": "2 min",
+          "audio_url": "https://raw.githubusercontent.com/ramoneb/la_plumette/refs/heads/main/demo_2_3_1.mp3",
+          "pdf_url": "https://raw.githubusercontent.com/ramoneb/la_plumette/refs/heads/main/demo_2_3_1.pdf",
+          "cover_url": ""
         }
       ]
     },
